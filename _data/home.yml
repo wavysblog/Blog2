@@ -18,54 +18,16 @@ project_entries:
     url: https://github.com/DiamondBroPlayz/RocketAltitudeCalculator
     desc: Calculates rocket altitude based on attributes about the rocket
 
-old_project_entries:
-  - title: Soopr
-    url: https://www.soopr.co
-    desc: Delight your readers - add beautiful share and like buttons easily to your websites 
-    highlight: NEW
-
 footer_entries:
-  - title: abhinav's homepage
+  - title: My Unblocked Games Website
     url: https://unblocked-games-institution-of-america.github.io/
+    
   - title: twitter
-    url: https://twitter.com/abhinav
+    url: https://twitter.com/kanyewest
 
   - title: github
-    url: https://github.com/abhinavs
-
-  - title: feed
-    url: feed.xml
+    url: https://github.com/DiamondBroPlayz
 
 misc_entries:
-  - title: this is an example vertical list
+  - title: my mom says im cool
     url: false
-
-  - title: you can show or hide using a boolean flag in _config.yml
-    url: false
-
-  - title: and you can add data in _data/home.yml
-    url: false
-
-  - title: Blog posts
-    post_list: true
-    url: false
-
-  - title: moonwalk on the Internet
-    url: false
-    entries:
-      - title: on Github
-        url: https://github.com/abhinavs/moonwalk
-
-      - title: originally built for abhinav's homepage
-        url: https://www.abhinav.co
-
-      - title: this list is scalable and can be nested
-        url: false
-        entries:
-          - title: this is nested inside a nested list
-            url: false
-
-          - title: it is easy to use, see _data/home.yml to see how to configure it.
-            url: false
-
-
