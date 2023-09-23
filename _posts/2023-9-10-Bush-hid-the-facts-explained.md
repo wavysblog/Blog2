@@ -23,3 +23,5 @@ Pretty much unicode characters are 2 bytes. And thus, yeah, it detects it as uni
 Old windows used to call a function called IsTextUnicode. Flytech tried making a program that called it and then displayed its output. Bush hid the facts displayed as unicode. If you want to know more about this then check out
 Flytech's [Video](https://www.youtube.com/watch?v=sPShnuBSvBg) on this bug.
 Thanks for reading! I'll be back with another article soon
+
+{% include John.html %}
